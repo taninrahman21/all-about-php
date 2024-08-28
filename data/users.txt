@@ -1,0 +1,2 @@
+admin,a81f13f0fbb006a4dbf033a04fda751ef1b2fffe,editor
+tanin,c2e2d6621334dc890bbd8a69430012c45a83bf65,admin
